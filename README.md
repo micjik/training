@@ -57,3 +57,23 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+Command to create the angular project and options to be selected
+-----------------------------------------------------
+npx @angular/cli@19 new <project-name> --no-standalone
+
+
+npx @angular/cli@19 new angular-bootstraping --no-standalone
+√ Which stylesheet format would you like to use? CSS             [
+https://developer.mozilla.org/docs/Web/CSS                     ]
+√ Do you want to enable Server-Side Rendering (SSR) and Static Site Generation (SSG/Prerendering)?
+No
+
+
+
+
+challenges class 2 03/08/2025
+--------------
+1. go to npmjs.com identify 5 packages and its uses 
+2. go through angular project structure perform npm run build
+3. npm start 
